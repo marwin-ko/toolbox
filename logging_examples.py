@@ -2,7 +2,7 @@
 # https://www.logicmonitor.com/blog/python-logging-levels-explained#logging-levels
 # https://docs.python.org/3/howto/logging.html
 # https://stackoverflow.com/questions/4874335/does-anyone-really-use-warn-as-a-logging-level
-
+# https://www.machinelearningplus.com/python/python-logging-guide/
 
 # Levels (warning and higher are logged by default)
 # 0 - DEBUG
