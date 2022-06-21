@@ -1,3 +1,4 @@
+import time
 def my_timer(func):
     def wrapper(*args, **kwargs):
         start = time.time()
